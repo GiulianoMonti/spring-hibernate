@@ -1,0 +1,9 @@
+happy
+sad
+angry
+beautiful
+ugly
+one
+two
+clock
+crazy
